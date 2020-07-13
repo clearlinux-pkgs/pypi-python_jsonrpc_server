@@ -4,7 +4,7 @@
 #
 Name     : python-jsonrpc-server
 Version  : 0.3.4
-Release  : 1
+Release  : 2
 URL      : https://files.pythonhosted.org/packages/0b/ed/ce08d4ba6048a54935797f1fcc63ce30135475cfc858778c286a0be21433/python-jsonrpc-server-0.3.4.tar.gz
 Source0  : https://files.pythonhosted.org/packages/0b/ed/ce08d4ba6048a54935797f1fcc63ce30135475cfc858778c286a0be21433/python-jsonrpc-server-0.3.4.tar.gz
 Summary  : JSON RPC 2.0 server library
