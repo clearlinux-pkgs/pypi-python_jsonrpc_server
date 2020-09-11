@@ -1,5 +1,5 @@
 PKG_NAME := python-jsonrpc-server
-URL = https://files.pythonhosted.org/packages/0b/ed/ce08d4ba6048a54935797f1fcc63ce30135475cfc858778c286a0be21433/python-jsonrpc-server-0.3.4.tar.gz
+URL = https://files.pythonhosted.org/packages/81/7d/c4c4102b94ef2e090d94fc02625653d3d3a0306e53ef24bcb6e9496bfc1e/python-jsonrpc-server-0.4.0.tar.gz
 ARCHIVES = 
 
 include ../common/Makefile.common
